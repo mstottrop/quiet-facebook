@@ -6,3 +6,7 @@ div[id*="ticker"] /* Right column / Chat sidebar: news ticker */
 {
   display: none !important;
 }
+
+div.ego_section {
+    display: none;    /* All that stuff nobody wants*/
+}
